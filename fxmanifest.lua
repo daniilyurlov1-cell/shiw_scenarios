@@ -1,8 +1,8 @@
-original_author 'RicX'
-original_script 'ricx_scenarios'
-edit_author 'Xakra <Discord:Xakra#8145:https://discord.gg/kmsqB6xQjH>'
-version '1.0.0'
-description 'xakra_scenarios'
+original_author 'xakra'
+original_script 'xakra_scenarios'
+edit_author 'Shiw Magic Scirpts <Discord:.sh1w:https://discord.gg/zQRrWjWUBJ>'
+version '2.0.0'
+description 'shiw_scenarios'
 
 fx_version "adamant"
 lua54 "on"
