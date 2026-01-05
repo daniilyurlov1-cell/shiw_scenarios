@@ -9,17 +9,6 @@ Config.Texts = {
 
 -- Формат: {"ТЕХНИЧЕСКИЙ_HASH", "Русское название для меню"}
 Config.Scenarios = {
-Config = {}
-
-Config.Texts = {
-    ["titleMenu"] = "Сценарии",
-    ["subtitleMenu"] = "Выберите сценарий",
-    ["NotifyTitle"] = "Сценарии",
-    ["NotifySubtitle"] = "Поблизости нет сценариев.",
-}
-
--- Формат: {"ТЕХНИЧЕСКИЙ_HASH", "Русское название для меню"}
-Config.Scenarios = {
     {"ANIMAL_CARCASS_EGRET_PARTS", "Разделка туши цапли"},
     {"CC_PROP_CAMP_FIRE_SEATED_DRINKING", "Сидеть у костра с выпивкой"},
     {"CC_WORLD_HUMAN_CAMP_FIRE_STAND", "Стоять у костра"},
