@@ -9,7 +9,7 @@ This script is an adaptation of the xakra script named "xakra_scenarios", it has
 
 ## Instructions to incorporate script
 - Copy the script into a folder (to choose) from the 'resources' folder.
-- Add 'ensure xakra_scenarios' in the 'Resources.cfg' document
+- Add 'ensure shiw_scenarios' in the 'Resources.cfg' document
 - Configure the texts and/or add the command in your radial menu.
 
 ![img1](https://user-images.githubusercontent.com/107937295/182722154-1c2d6250-47a6-4065-9ef2-525afd734066.png)
